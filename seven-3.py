@@ -1,3 +1,4 @@
+#by checking square root of n in the range
 n=int(input("Enter a number "))
 count=0
 if n<2:
